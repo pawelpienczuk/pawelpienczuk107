@@ -1,5 +1,5 @@
 # Paweł Pieńczuk
-Electronics Designer, PhD Student
+Electronics Designer
 
 # Skills
 - Analog Design
@@ -11,6 +11,7 @@ Electronics Designer, PhD Student
 - MATLAB
 - Python (Statistics, Data Mining, DSP)
 - R (Statistics, Data Mining)
+- PCB (Altium, KiCAD)
 
 # Languages:
 - English
